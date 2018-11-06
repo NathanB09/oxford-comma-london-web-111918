@@ -3,3 +3,6 @@ def oxford_comma(array)
     array.join
   end
 end
+
+tester = ["test"]
+puts oxford_comma(tester)
